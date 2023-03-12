@@ -1,1 +1,1 @@
-# This projects is about my Personal Profile
+# This project is about my Personal Profile
